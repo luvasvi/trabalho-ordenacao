@@ -1,1 +1,10 @@
-
+Algoritmo,Entrada,100,1000,10000,100000,Unidade
+Quicksort,Aleatória,0.009,0.101,1.186,13.962,ms
+Quicksort,Ordenada,0.003,0.025,0.293,3.714,ms
+Quicksort,Inversa,0.002,0.031,0.294,3.706,ms
+Merge Sort,Aleatória,0.011,0.107,1.343,17.380,ms
+Merge Sort,Ordenada,0.006,0.054,0.770,8.732,ms
+Merge Sort,Inversa,0.005,0.055,0.729,9.381,ms
+Insertion Sort,Aleatória,0.009,0.732,71.736,TIMEOUT,ms
+Insertion Sort,Ordenada,0.001,0.005,0.044,0.370,ms
+Insertion Sort,Inversa,0.015,1.346,139.699,TIMEOUT,ms
